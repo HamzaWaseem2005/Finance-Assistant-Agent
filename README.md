@@ -1,4 +1,3 @@
-Ah, understood! Here is the professional `README.md` file written completely in English:
 
 ---
 
@@ -92,6 +91,3 @@ streamlit run ui.py
 
 ```
 
-```
-
-```
