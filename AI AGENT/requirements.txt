@@ -1,7 +1,9 @@
 langchain
 langchain-core
 langchain-groq
-streamlit
-python-dotenv
-pandas
 langgraph
+streamlit
+plotly
+pandas
+python-dotenv
+sqlite3
