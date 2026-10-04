@@ -87,7 +87,7 @@ GROQ_API_KEY=your_groq_api_key_here
 Launch the Streamlit user interface using the following command:
 
 ```bash
-streamlit run ui.py
+streamlit run "AI AGENT/Streamlit/ui.py"
 
 ```
 
