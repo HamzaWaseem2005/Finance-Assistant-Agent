@@ -50,8 +50,10 @@ AI Finance Assistant is a smart, interactive application designed to help you ma
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YourUsername/YourProject.git](https://github.com/YourUsername/YourProject.git)
-cd YourProject
+```
+git clone https://github.com/HamzaWaseem2005/Finance-Assistant-Agent.git
+cd Finance-Assistant-Agent
+```
 
 ```
 
