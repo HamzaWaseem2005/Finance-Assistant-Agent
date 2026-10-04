@@ -11,7 +11,7 @@ AI Finance Assistant is a smart, interactive application designed to help you ma
 ## 📁 Project Structure
 
 ```text
-├── Agent/
+├── AI Agent/
 │   ├── agent.py         # LangGraph agent setup, tool definitions, and Groq LLM integration
 │   └── database.py      # SQLite database initialization and schema setup
 ├── Streamlit/
