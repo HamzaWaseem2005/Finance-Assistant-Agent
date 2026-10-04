@@ -8,7 +8,20 @@ A chat-based personal finance tracker. Tell the assistant what you spent or earn
 
 ## 📸 Screenshots
 
-See the `Ui Screenshots/` folder for the app interface (chat and dashboard).
+
+| 
+
+![Screenshot 1](AI%20AGENT/Ui%20Screenshots/Screenshot%202026-09-27%20214947.png)
+
+ | 
+
+![Screenshot 2](AI%20AGENT/Ui%20Screenshots/Screenshot%202026-09-27%20215219.png)
+
+ | 
+
+![Screenshot 3](AI%20AGENT/Ui%20Screenshots/Screenshot%202026-09-27%20215234.png)
+
+ |
 
 ---
 
@@ -80,13 +93,14 @@ User (Streamlit chat + dashboard)
 
 ```
 .
-├── Agent/
-│   ├── agent.py          # LangGraph agent, tool definitions, Groq LLM integration
-│   └── database.py       # SQLite initialisation and schema
-├── Streamlit/
-│   └── ui.py             # Streamlit UI, dashboard and charts
-├── Ui Screenshots/       # Application screenshots
-├── .env.example          # Template for environment variables
+├── AI AGENT/
+│   ├── Agent/
+│   │   ├── agent.py        # LangGraph agent, tool definitions, Groq LLM integration
+│   │   └── database.py     # SQLite initialisation and schema
+│   ├── Streamlit/
+│   │   └── ui.py           # Streamlit UI, dashboard and charts
+│   ├── Ui Screenshots/     # Application screenshots
+│   └── .env.example        # Template for environment variables
 ├── LICENSE
 └── README.md
 ```
@@ -126,7 +140,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ### 5. Run the app
 
 ```
-streamlit run Streamlit/ui.py
+streamlit run "AI AGENT/Streamlit/ui.py"
 ```
 
 ---
